@@ -17,7 +17,7 @@ console.log(found); // 4
 
 // 5. findIndex
 const foundIndex = [1, 2, 3, 4, 5].findIndex(num => num > 3);
-console.log(foundIndex); // 3
+console.log(foundIndex); // 3 
 
 // 6. flat
 const nestedArray = [1, [2, 3], [4, [5, 6]]];

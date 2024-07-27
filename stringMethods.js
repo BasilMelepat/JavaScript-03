@@ -30,12 +30,12 @@ let str6 = "Hello World";
 console.log(str6.replace("World", "Mom")); // Output: "Hello Mom"
 
 // 9. search
-console.log(sentence.search("world")); // Output: 19
+console.log(sentence.search("world")); // Output: 19 
 
 // 10. slice
 console.log(sentence.slice(8, 15)); // Output: "to the"
 
-// 11. split
+// 11 split
 console.log(sentence.split(" ")); // Output: [ "Welcome", "to", "the", "new", "world" ]
 
 // 12. startsWith
