@@ -95,6 +95,6 @@ console.log(sum); // 15
 const doubledArray = [1, 2, 3].map(num => num * 2);
 console.log(doubledArray); // [2, 4, 6]
 
-// 25. forEach
+// 25. forEach 
 const numbers = [1, 2, 3];
 numbers.forEach(num => console.log(num * 2)); // Logs: 2, 4, 6
